@@ -1,3 +1,10 @@
 __pycache__/
 *.pyc
+.DS_Store
 .venv/
+backend/.venv/
+backend/uploads/
+backend/excalcflow.db
+backend/.env
+frontend/node_modules/
+frontend/dist/
